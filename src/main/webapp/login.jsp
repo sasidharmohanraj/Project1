@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="validatelogin" method="post">
-	<marquee>	<h1>Welcome To My Software</h1></marquee>
+	<marquee>	<h1>Welcome To My Website</h1></marquee>
 		<h2>New User Please Signin</h2>
 	<pre>
 						EMAIL    : <input type="text" name="email">
